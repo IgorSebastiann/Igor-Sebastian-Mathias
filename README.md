@@ -75,8 +75,6 @@ Personal portfolio project demonstrating UI organization and foundational progra
 </tr>
 </table>
 
-> 🚧 Tip: Consider adding an RPA-focused repository showcasing UiPath automation (documentation, screenshots, workflow structure).
-
 ---
 
 ## 📊 GitHub Activity
