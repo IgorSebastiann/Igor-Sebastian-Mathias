@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-sebastian-mathias-948697250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-111827?logo=google-chrome&logoColor=white"/>
+  <a href="https://github.com/IgorSebastiann" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -40,27 +40,25 @@ I enjoy learning new technologies, solving real-world problems, and contributing
 <tr>
 <td width="50%">
 
-### 🔹 Project Name 1
-Short description of what the project does and what problem it solves.
+### 🔹 Betinho
+A web-based project focused on practicing front-end and basic application logic, emphasizing clean layout structure, user interaction, and responsive design.
 
-**Tech:** JavaScript • Node.js • PostgreSQL  
-<a href="https://github.com/IgorSebastiann/PROJECT_REPO">Repository</a>
+**Tech:** HTML • CSS • JavaScript  
+<a href="https://github.com/IgorSebastiann/Betinho" target="_blank">View Repository</a>
 
 </td>
 
 <td width="50%">
 
-### 🔹 Project Name 2
-Short description of the main features and your contribution.
+### 🔹 BiodoIgor
+A personal portfolio project showcasing programming fundamentals, UI organization, and project structuring, serving as a foundation for continuous improvement and experimentation.
 
-**Tech:** Python • API • Automation  
-<a href="https://github.com/IgorSebastiann/PROJECT_REPO">Repository</a>
+**Tech:** HTML • CSS • JavaScript  
+<a href="https://github.com/IgorSebastiann/BiodoIgor" target="_blank">View Repository</a>
 
 </td>
 </tr>
 </table>
-
-> 💡 Tip: Replace the project names and links with your real repositories.
 
 ---
 
@@ -76,9 +74,8 @@ Short description of the main features and your contribution.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU_LINK  
-- 🌐 Portfolio: https://seu-portfolio.com  
-- 📧 Email: your@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/igor-sebastian-mathias-948697250/  
+- 🌐 GitHub: https://github.com/IgorSebastiann  
 
 ---
 
