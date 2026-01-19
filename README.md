@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2933&height=120&section=header&text=Igor%20Sebastian%20Mathias&fontSize=34&fontColor=ffffff" />
 
 <p align="center">
-  <b>Junior Software Developer</b> • Web & Backend  
+  <b>Junior RPA Developer</b> • UiPath Automation • Software Development  
 </p>
 
 <p align="center">
-  HTML • CSS • Python • JavaScript • Java • C#
+  UiPath • Python • JavaScript • HTML • CSS • Java • C#
 </p>
 
 <p align="center">
@@ -21,16 +21,31 @@
 
 ## 👋 About Me
 
-Hi, I'm **Igor Sebastian Mathias**, a motivated **Junior Software Developer** with hands-on experience in building web and backend applications.  
-I have been studying programming for about **2 years** and working professionally in the field for **6 months**, focusing on writing clean, maintainable, and scalable code.
+Hi, I'm **Igor Sebastian Mathias**, a **Junior RPA Developer** with a strong focus on building automation solutions using **UiPath**.  
+I have been studying programming for about **2 years** and working professionally in the field for **6 months**, gaining hands-on experience in automating business processes and developing supporting scripts and integrations.
 
-I enjoy learning new technologies, solving real-world problems, and contributing to meaningful projects.
+I enjoy designing reliable automation flows, improving operational efficiency, and continuously expanding my software engineering skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,python,javascript,java,cs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cs,java,html,css,git,github,vscode" />
+
+**RPA & Automation**
+- UiPath Studio  
+- REFramework  
+- Orchestrator  
+- Queues  
+- Selectors  
+- PDF / Excel Automation  
+- Web Automation  
+
+**Software Development**
+- Python Automation Scripts  
+- JavaScript  
+- C# Fundamentals  
+- API Consumption  
 
 ---
 
@@ -41,7 +56,7 @@ I enjoy learning new technologies, solving real-world problems, and contributing
 <td width="50%">
 
 ### 🔹 Betinho
-A web-based project focused on practicing front-end and basic application logic, emphasizing clean layout structure, user interaction, and responsive design.
+Web-based project focused on practicing front-end fundamentals, user interaction, and layout structure.
 
 **Tech:** HTML • CSS • JavaScript  
 <a href="https://github.com/IgorSebastiann/Betinho" target="_blank">View Repository</a>
@@ -51,7 +66,7 @@ A web-based project focused on practicing front-end and basic application logic,
 <td width="50%">
 
 ### 🔹 BiodoIgor
-A personal portfolio project showcasing programming fundamentals, UI organization, and project structuring, serving as a foundation for continuous improvement and experimentation.
+Personal portfolio project demonstrating UI organization and foundational programming concepts.
 
 **Tech:** HTML • CSS • JavaScript  
 <a href="https://github.com/IgorSebastiann/BiodoIgor" target="_blank">View Repository</a>
@@ -59,6 +74,8 @@ A personal portfolio project showcasing programming fundamentals, UI organizatio
 </td>
 </tr>
 </table>
+
+> 🚧 Tip: Consider adding an RPA-focused repository showcasing UiPath automation (documentation, screenshots, workflow structure).
 
 ---
 
