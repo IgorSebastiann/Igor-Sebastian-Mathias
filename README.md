@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2933&height=120&section=header&text=Igor%20Sebastian%20Mathias&fontSize=34&fontColor=ffffff" />
 
 <p align="center">
-  <b>Junior RPA Developer</b> • UiPath Automation • Software Development  
+  <b>Junior RPA Developer</b> • Python Automation • AI Skills • Software Development  
 </p>
 
 <p align="center">
-  UiPath • Python • JavaScript • HTML • CSS • Java • C#
+  Python • JavaScript • React • Supabase • Vercel • Hostinger • Java • C#
 </p>
 
 <p align="center">
@@ -21,31 +21,46 @@
 
 ## 👋 About Me
 
-Hi, I'm **Igor Sebastian Mathias**, a **Junior RPA Developer** with a strong focus on building automation solutions using **UiPath**.  
-I have been studying programming for about **2 years** and working professionally in the field for **6 months**, gaining hands-on experience in automating business processes and developing supporting scripts and integrations.
+Hi, I'm **Igor Sebastian Mathias**, a **Junior RPA Developer** with **1 year of professional experience** in automation. I spent my first **8 months** working directly with **UiPath**, and for the last **4 months** I've migrated my automation work to **Python**.  
+I'm currently in the **6th semester of Software Engineering at Católica SC**, and alongside automation, I've been expanding into **web systems development**, working with React, Supabase, Vercel, and related tools.
 
-I enjoy designing reliable automation flows, improving operational efficiency, and continuously expanding my software engineering skills.
+I've also been building **custom AI skills** to support both my automations and my web development workflow, making processes smarter and more efficient.
+
+I enjoy designing reliable automation flows, improving operational efficiency, and building full-stack web applications, always looking to grow as a well-rounded software engineer.
 
 ---
 
 ## 🛠️ Core Skills
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cs,java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,supabase,vercel,cs,java,html,css,tailwind,git,github,vscode" />
+<img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=white"/>
 
 **RPA & Automation**
-- UiPath Studio  
-- REFramework  
-- Orchestrator  
-- Queues  
-- Selectors  
+- Python Automation Scripts (current focus)  
+- UiPath Studio, REFramework & Orchestrator (8 months of hands-on experience)  
+- Process & Task Automation  
 - PDF / Excel Automation  
-- Web Automation  
+- Web Automation & Scraping  
+- API Consumption & Integration  
+
+**AI Skills**
+- Custom AI Skills for Automation Workflows  
+- AI-Assisted Web Development  
+- Prompt Engineering  
 
 **Software Development**
-- Python Automation Scripts  
-- JavaScript  
+- JavaScript / React  
+- Node.js  
 - C# Fundamentals  
-- API Consumption  
+- Java Fundamentals  
+
+**Web & Cloud**
+- Supabase (Auth, Database, Storage)  
+- Neon (Serverless Postgres)  
+- Vercel (Deploy & Hosting)  
+- Hostinger (Web Hosting & Domains)  
+- Tailwind CSS  
+- Git & GitHub  
 
 ---
 
@@ -55,21 +70,43 @@ I enjoy designing reliable automation flows, improving operational efficiency, a
 <tr>
 <td width="50%">
 
-### 🔹 Betinho
-Web-based project focused on practicing front-end fundamentals, user interaction, and layout structure.
+### 🔹 Newsletter - Engenharia de Software (Católica SC)
+Academic project for the Software Engineering course, focused on building a newsletter application.
 
-**Tech:** HTML • CSS • JavaScript  
-<a href="https://github.com/IgorSebastiann/Betinho" target="_blank">View Repository</a>
+**Tech:** JavaScript  
+<a href="https://github.com/IgorSebastiann/Newsletter-Engenharia-de-Software_CatolicaSC" target="_blank">View Repository</a>
 
 </td>
 
 <td width="50%">
 
-### 🔹 BiodoIgor
-Personal portfolio project demonstrating UI organization and foundational programming concepts.
+### 🔹 UiPath Skills
+Repository dedicated to practicing and documenting UiPath activities, packages, and RPA development skills.
 
-**Tech:** HTML • CSS • JavaScript  
-<a href="https://github.com/IgorSebastiann/BiodoIgor" target="_blank">View Repository</a>
+**Tech:** Python  
+<a href="https://github.com/IgorSebastiann/Uipath-Skills" target="_blank">View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 API Seminário Web
+A REST API built for a web seminar/assignment, demonstrating backend fundamentals and API design.
+
+**Tech:** Java  
+<a href="https://github.com/IgorSebastiann/Api-Seminario-Web" target="_blank">View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🔹 N3 - Qualidade de Software
+Academic project for the Software Quality course, focused on testing and quality assurance practices.
+
+**Tech:** JavaScript  
+<a href="https://github.com/IgorSebastiann/N3-Qualidade-de-Software" target="_blank">View Repository</a>
 
 </td>
 </tr>
@@ -79,11 +116,11 @@ Personal portfolio project demonstrating UI organization and foundational progra
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgorSebastiann&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorSebastiann&show_icons=true&theme=dark" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSebastiann&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorSebastiann&layout=compact&theme=dark" />
 
 ---
 
@@ -94,4 +131,4 @@ Personal portfolio project demonstrating UI organization and foundational progra
 
 ---
 
-<img src="https://profile-counter.glitch.me/IgorSebastiann/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=IgorSebastiann&color=1f2933&style=flat" />
